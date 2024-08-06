@@ -20,12 +20,14 @@ The Linear Regression folder contains the following files:
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Installation Requirements](#requirements)
+2. [Installation Requirements](#installation-requirements)
 3. [Project Structure](#project-structure)
 4. [Data](#data)
-5. [Training and Evaluation](#training)
+5. [Training and Evaluation](#training-and-evaluation)
 6. [Visualization](#visualization)
 7. [Lessons](#lessons)
+8. [Screenshots](#screenshots)
+   
 ## Introduction
 
 Linear regression is a fundamental machine-learning technique used to model the relationship between a dependent variable and one or more independent variables. This assignment provides a clear and concise example of how to implement linear regression from scratch using Python.
@@ -77,7 +79,7 @@ Dataset Summary:
 
 The entire training process alongside the maths involved is explained in detail in the jupyter notebook. 
 - Note: A good knowledge of Calculus is required to fully understand the gradient descent algorithm, especially the concept of partial derivatives.
-## Lessons Learned
+## Lessons
 
 A linear regression project can teach a variety of valuable skills and concepts, including:
 
