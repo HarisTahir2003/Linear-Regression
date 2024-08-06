@@ -104,12 +104,27 @@ A linear regression project can teach a variety of valuable skills and concepts,
 
 
 ## Screenshots
-<img src="pic1.png" width="400px">
-<img src="pic2.png" width="400px">
-<img src="pic3.png" width="400px">
-<img src="pic4.png" width="400px">
-<img src="pic5.png" width="400px">
-<img src="pic6.png" width="400px">
+<h1> (a) Univariate Linear Regression </h1>
+<h4> 1. This image shows a regression line and the data points of the training dataset, where Present_Tmax is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
+<img src="pic1.png" width="400px"> <br> 
+
+<h4> 2. This image shows a regression line and the data points of the testing dataset, where Present_Tmax is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
+<img src="pic2.png" width="400px"> <br> 
+
+<h4> 3. This image shows the correlation between the various input variables in the .csv file and the output variable (Next_Tmax). More details about correlation are in the Jupyter Notebook. </h4>
+<img src="pic5.png" width="400px"> <br>
+
+<h4> 4. This image shows a regression line and the data points of the training dataset, where the input variable having the highest correlation with the output varaible (LDAPS_Tmax_lapse) is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
+<img src="pic3.png" width="400px"> <br>
+
+<h4> 5. This image shows a regression line and the data points of the testing dataset, where the input variable having the highest correlation with the output varaible (LDAPS_Tmax_lapse) is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
+<img src="pic4.png" width="400px"> <br> <br> <br>
+
+<h1> (b) Multivariate Linear Regression </h1>
+<h4> 1. This image shows the number of epochs on the x-axis plotted against the cost value on the y-axis, when the top five input features from the raw dataset are used in the gradient descent algorithm.</h4>
+<img src="pic6.png" width="400px"> <br>
+
+<h4> 2. This image shows the number of epochs on the x-axis plotted against the cost value on the y-axis, when ALL the input features from the raw dataset are used in the gradient descent algorithm.</h4>
 <img src="pic7.png" width="400px">
 
 
