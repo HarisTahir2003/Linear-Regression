@@ -8,6 +8,11 @@
 # Linear Regression Assignment
 
 This repository contains a Jupyter Notebook that demonstrates a simple implementation of linear regression using Python. The notebook walks through the steps of loading data, preprocessing, training a linear regression model, and visualizing the results. Alongside the Jupyter Notebook, there is also a corresponding .py python file.
+The Linear Regression folder contains the following files:
+- A .ipynb file (Jupyter Notebook) that contains all the code regarding the assignment including text blocks explaining portions of the code
+- A corresponding .py file
+- seven .png files that are screenshots of the plots in the Jupyter Notebook
+- a .csv file that contains all the raw data on which the linear regression is applied. You can download and save the .csv file in your computer and open it as an Excel file for better readability.
 
 
 
@@ -98,6 +103,6 @@ A linear regression project can teach a variety of valuable skills and concepts,
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot]('pic1.png')
 
 
