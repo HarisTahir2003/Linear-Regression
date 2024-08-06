@@ -104,13 +104,13 @@ A linear regression project can teach a variety of valuable skills and concepts,
 
 
 ## Screenshots
-<img src="pic1.png" width="200px">
-<img src="pic2.png">
-<img src="pic3.png">
-<img src="pic4.png">
-<img src="pic5.png">
-<img src="pic6.png">
-<img src="pic7.png">
+<img src="pic1.png" width="400px">
+<img src="pic2.png" width="400px">
+<img src="pic3.png" width="400px">
+<img src="pic4.png" width="400px">
+<img src="pic5.png" width="400px">
+<img src="pic6.png" width="400px">
+<img src="pic7.png" width="400px">
 
 
 
