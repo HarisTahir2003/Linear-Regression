@@ -15,18 +15,15 @@ The Linear Regression folder contains the following files:
 - a .csv file that contains all the raw data on which the linear regression is applied. You can download and save the .csv file in your computer and open it as an Excel file for better readability.
 
 
-
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Installation Requirements](#installation-requirements)
 3. [Project Structure](#project-structure)
 4. [Data](#data)
-5. [Training and Evaluation](#training-and-evaluation)
-6. [Visualization](#visualization)
-7. [Lessons](#lessons)
-8. [Screenshots](#screenshots)
+5. [Training and Evaluation](#training-and-visualization)
+6. [Lessons](#lessons)
+7. [Screenshots](#screenshots)
    
 ## Introduction
 
@@ -65,6 +62,8 @@ Data Loading and Preprocessing: Steps to load and preprocess the dataset.
 Model Training: Training the linear regression model.
 Model Evaluation: Evaluating the model performance.
 Visualization: Plotting the results to visualize the model performance.
+
+
 ## Data
 
 The dataset used in this notebook is a .csv file.  
@@ -75,10 +74,14 @@ Dataset Summary:
 - **Instances:** 7586
 - **Input Features:** 21 (including present-day temperature data, LDAPS model forecasts, and geographical information)
 - **Output:** Next-day maximum (Next_Tmax)
+
+
 ## Training and Visualization
 
 The entire training process alongside the maths involved is explained in detail in the jupyter notebook. 
 - Note: A good knowledge of Calculus is required to fully understand the gradient descent algorithm, especially the concept of partial derivatives.
+
+
 ## Lessons
 
 A linear regression project can teach a variety of valuable skills and concepts, including:
@@ -100,26 +103,26 @@ A linear regression project can teach a variety of valuable skills and concepts,
 
 ## Screenshots
 <h3> (a) Univariate Linear Regression </h3>
-<h4> 1. This image shows a regression line and the data points of the training dataset, where Present_Tmax is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
+<h4> 1. This image shows a regression line and the data points of the <strong> training dataset </strong>, where Present_Tmax is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
 <img src="pic1.png" width="400px"> <br> 
 
-<h4> 2. This image shows a regression line and the data points of the testing dataset, where Present_Tmax is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
+<h4> 2. This image shows a regression line and the data points of the <strong> testing dataset </strong>, where Present_Tmax is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
 <img src="pic2.png" width="400px"> <br> 
 
 <h4> 3. This image shows the correlation between the various input variables in the .csv file and the output variable (Next_Tmax). More details about correlation are in the Jupyter Notebook. </h4>
 <img src="pic5.png" width="400px"> <br>
 
-<h4> 4. This image shows a regression line and the data points of the training dataset, where the input variable having the highest correlation with the output varaible (LDAPS_Tmax_lapse) is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
+<h4> 4. This image shows a regression line and the data points of the <strong> training dataset </strong>, where the input variable having the highest correlation with the output variable (LDAPS_Tmax_lapse) is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
 <img src="pic3.png" width="400px"> <br>
 
-<h4> 5. This image shows a regression line and the data points of the testing dataset, where the input variable having the highest correlation with the output varaible (LDAPS_Tmax_lapse) is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
+<h4> 5. This image shows a regression line and the data points of the <strong> testing dataset </strong>, where the input variable having the highest correlation with the output varaible (LDAPS_Tmax_lapse) is plotted on the x-axis and Next_Tmax is plotted on the y-axis. </h4>
 <img src="pic4.png" width="400px"> <br> <br> <br>
 
 <h3> (b) Multivariate Linear Regression </h3>
-<h4> 1. This image shows the number of epochs on the x-axis plotted against the cost value on the y-axis, when the top five input features from the raw dataset are used in the gradient descent algorithm.</h4>
+<h4> 1. This image shows the number of epochs on the x-axis plotted against the cost value on the y-axis, when the <strong>top five </strong> input features from the raw dataset are used in the gradient descent algorithm.</h4>
 <img src="pic6.png" width="400px"> <br>
 
-<h4> 2. This image shows the number of epochs on the x-axis plotted against the cost value on the y-axis, when ALL the input features from the raw dataset are used in the gradient descent algorithm.</h4>
+<h4> 2. This image shows the number of epochs on the x-axis plotted against the cost value on the y-axis, when <strong> ALL </strong> the input features from the raw dataset are used in the gradient descent algorithm.</h4>
 <img src="pic7.png" width="400px">
 
 
