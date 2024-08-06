@@ -104,7 +104,7 @@ A linear regression project can teach a variety of valuable skills and concepts,
 
 
 ## Screenshots
+<img src="pic1.png">
 
-![App Screenshot]('pic1.png')
 
 
