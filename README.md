@@ -24,7 +24,7 @@ This repository contains a Jupyter Notebook that demonstrates a simple implement
 ## Introduction
 
 Linear regression is a fundamental machine-learning technique used to model the relationship between a dependent variable and one or more independent variables. This assignment provides a clear and concise example of how to implement linear regression from scratch using Python.
-## Installation
+## Installation Requirements
 
 To run this notebook, you will need the following packages:
 - numpy
