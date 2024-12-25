@@ -57,10 +57,10 @@ Useful Links for installing Jupyter Notebook:
 
 The notebook is organized into the following sections:
 
-Introduction: Overview of the project and linear regression.
-Data Loading and Preprocessing: Steps to load and preprocess the dataset.
-Model Training: Training the linear regression model.
-Model Evaluation: Evaluating the model performance.
+Introduction: Overview of the project and linear regression. <br>
+Data Loading and Preprocessing: Steps to load and preprocess the dataset. <br>
+Model Training: Training the linear regression model. <br>
+Model Evaluation: Evaluating the model performance. <br>
 Visualization: Plotting the results to visualize the model performance.
 
 
